@@ -39,7 +39,7 @@ const Footer = () => {
               </div>
               <div className="mt-3 flex items-center gap-3">
                 <MdEmail />
-                <p>rabi@gmail.com</p>
+                <p>tbitfusion@gmail.com</p>
               </div>
               {/* Social Handle */}
             </div>
